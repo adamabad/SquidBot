@@ -1,0 +1,418 @@
+{
+  "raidlist": [
+    {
+      "raid": "grimnir",
+	  "displayname":"Grimnir",
+      "aliases": [
+        "grimnir",
+        "grim"
+      ],
+	  "imageURL":"https://gbf.wiki/images/0/00/BattleRaid_Grimnir_Impossible.png"
+    },
+    {
+      "raid": "alexiel",
+	  "displayname":"Alexiel",
+      "aliases": [
+		"alex",
+		"alexiel"
+      ],
+	  "imageURL":"https://gbf.wiki/images/c/cd/BattleRaid_Godsworn_Alexiel_Impossible.png"
+    },
+    {
+      "raid": "europa",
+	  "displayname":"Europa",
+      "aliases": [
+        "europa"
+      ],
+	  "imageURL":"https://gbf.wiki/images/6/6d/BattleRaid_Europa_Impossible.png"
+    },
+    {
+      "raid": "avatar",
+	  "displayname":"Avatar",
+      "aliases": [
+        "avatar"
+      ],
+	  "imageURL":"https://gbf.wiki/images/2/2e/BattleRaid_Avatar_Impossible.png"
+    },
+    {
+      "raid": "metatron",
+	  "displayname":"Metatron",
+      "aliases": [
+        "metatron",
+		"meta"
+      ],
+	  "imageURL":"https://gbf.wiki/images/0/07/BattleRaid_Metatron_Impossible.png"
+    },
+    {
+      "raid": "shiva",
+	  "displayname":"Shiva",
+      "aliases": [
+        "shiva"
+      ],
+	  "imageURL":"https://gbf.wiki/images/7/73/BattleRaid_Shiva_Impossible.png"
+    },
+	{
+		"raid":"twinelements",
+		"displayname":"Twin Elements",
+		"aliases": [
+		  "twinelements",
+		  "twin elements",
+		  "twin"
+		],
+		"imageURL":"https://gbf.wiki/images/d/d4/BattleRaid_Twin_Elements_Extreme.png"
+	},
+	{
+		"raid":"maculamarius",
+		"displayname":"Macula Marius",
+		"aliases": [
+		  "macula",
+		  "maculamarius",
+		  "macula marius"
+		],
+		"imageURL":"https://gbf.wiki/images/0/0f/BattleRaid_Macula_Marius_Extreme.png"
+	},
+	{
+		"raid":"medusa",
+		"displayname":"Medusa",
+		"aliases": [
+		   "medusa"
+		],
+		"imageURL":"https://gbf.wiki/images/0/03/BattleRaid_Medusa_Extreme.png"
+	},
+	{
+		"raid":"nezha",
+		"displayname":"Nezha",
+		"aliases": [
+		  "nezha"
+		],
+		"imageURL":"https://gbf.wiki/images/c/c5/BattleRaid_Nezha_Extreme.png"
+	},
+	{
+		"raid":"apollo",
+		"displayname":"Apollo",
+		"aliases": [
+		  "apollo"
+		],
+		"imageURL":"https://gbf.wiki/images/b/bc/BattleRaid_Apollo_Extreme.png"
+	},
+	{
+		"raid":"darkangelolivia",
+		"displayname":"Dark Angel Olivia",
+		"aliases": [
+		  "dao",
+		  "dark angel",
+		  "olivia",
+		  "dark angel olivia"
+		],
+		"imageURL":"https://gbf.wiki/images/1/15/BattleRaid_Dark_Angel_Olivia_Extreme.png"
+	},
+	{
+		"raid":"rosequeen",
+		"displayname":"Rose Queen",
+		"aliases": [
+		  "rose queen",
+		  "rq"
+		],
+		"imageURL":"https://gbf.wiki/images/6/65/BattleRaid_Rose_Queen_Impossible.png"
+	},
+	{
+		"raid":"prometheus",
+		"displayname":"Prometheus",
+		"aliases": [
+			"prometheus",
+			"prom"
+		],
+		"imageURL":"https://gbf.wiki/images/0/09/BattleRaid_Prometheus_Impossible.png"
+	},
+	{
+		"raid":"caong",
+		"displayname":"Ca Ong",
+		"aliases": [
+			"ca ong"
+		],
+		"imageURL":"https://gbf.wiki/images/f/f8/BattleRaid_Ca_Ong_Impossible.png"
+	},
+	{
+		"raid":"gilgamesh",
+		"displayname":"Gilgamesh",
+		"aliases": [
+			"gilgamesh",
+			"gilg",
+			"gilga",
+			"garugamesh"
+		],
+		"imageURL":"https://gbf.wiki/images/6/6c/BattleRaid_Gilgamesh_Impossible.png"
+	},
+	{
+		"raid":"gilgamesh",
+		"displayname":"Girugamesh",
+		"aliases": [
+			"girugamesh"
+		],
+		"imageURL":"https://i.kym-cdn.com/photos/images/newsfeed/000/210/414/Girugamesh01.png?1322724423"
+	},
+	{
+		"raid":"morrigna",
+		"displayname":"Morrigna",
+		"aliases": [
+			"morrigna"
+		],
+		"imageURL":"https://gbf.wiki/images/c/c7/BattleRaid_Morrigna_Impossible.png"
+	},
+	{
+		"raid":"hector",
+		"displayname":"Hector",
+		"aliases": [
+			"hector"
+		],
+		"imageURL":"https://gbf.wiki/images/6/62/BattleRaid_Hector_Impossible.png"
+	},
+	{
+		"raid":"anubis",
+		"displayname":"Anubis",
+		"aliases": [
+			"anubis",
+			"urmom"
+		],
+		"imageURL":"https://gbf.wiki/images/4/4f/BattleRaid_Anubis_Impossible.png"
+	},
+	{
+		"raid":"tiamatmalice",
+		"displayname":"Tiamat Malice",
+		"aliases": [
+			"tiamat malice",
+			"tiamal"
+		],
+		"imageURL":"https://gbf.wiki/images/0/03/BattleRaid_Tiamat_Malice_Impossible.png"
+	},
+	{
+		"raid":"lucilius",
+		"displayname":"Lucilius",
+		"aliases": [
+			"lucilius",
+			"luci"
+		],
+		"imageURL":"https://gbf.wiki/images/8/8d/BattleRaid_Lucilius_Impossible.png"
+	},
+	{
+		"raid":"protobahamuthl",
+		"displayname":"Proto Bahamut (Hard)",
+		"aliases": [
+			"protobahahl",
+			"pbahahl",
+			"proto bahamut high",
+			"pbhl"
+		],
+		"imageURL":"https://gbf.wiki/images/f/f0/Proto_Bahamut_Impossible.jpg"
+	},
+	{
+		"raid":"akasha",
+		"displayname":"Akasha",
+		"aliases": [
+			"akasha"
+		],
+		"imageURL":"https://gbf.wiki/images/5/5e/BattleRaid_Akasha_Impossible.png"
+	},
+	{
+		"raid":"fourprimarchs",
+		"displayname":"The Four Primarchs",
+		"aliases": [
+			"4",
+			"four",
+			"four primarchs"
+		],
+		"imageURL":"https://gbf.wiki/images/1/1e/BattleRaid_The_Four_Primarchs_Impossible.png"
+	},
+	{
+		"raid":"ultimatebahamuthl",
+		"displayname":"Ultimate Bahamut (Hard)",
+		"aliases": [
+			"ubahl",
+			"ubhl",
+			"shiny",
+			"ultimate bahamut high",
+			"ultimate bahamut hl",
+			"ultimate baha hl"
+		],
+		"imageURL":"https://gbf.wiki/images/2/2f/BattleRaid_Ultimate_Bahamut_Impossible.png"
+	},
+	{
+		"raid":"luciliushl",
+		"displayname":"Lucilius (Hard)",
+		"aliases": [
+			"luciliushl",
+			"lucilius hard",
+			"lucilius hl",
+			"lucihl"
+		],
+		"imageURL":"https://gbf.wiki/images/e/e8/BattleRaid_Lucilius_ImpossibleHard.png"
+	},
+	{
+		"raid":"huanglongqilin",
+		"displayname":"Huanglong and Qilin",
+		"aliases": [
+			"huanglong and qilin",
+			"huanglong qilin",
+			"horses"
+		],
+		"imageURL":"https://gbf.wiki/images/1/1b/BattleRaid_Huanglong_and_Qilin_Impossible.png"
+	},
+	{
+		"raid":"athena",
+		"displayname":"Athena",
+		"aliases": [
+			"athena"
+		],
+		"imageURL":"https://gbf.wiki/images/b/be/BattleRaid_Athena_Extreme.jpg"
+	},
+	{
+		"raid":"grani",
+		"displayname":"Grani",
+		"aliases": [
+			"grani"
+		],
+		"imageURL":"https://gbf.wiki/images/4/42/BattleRaid_Grani_Extreme.png"
+	},
+	{
+		"raid":"baal",
+		"displayname":"Baal",
+		"aliases": [
+			"baal"
+		],
+		"imageURL":"https://gbf.wiki/images/4/49/BattleRaid_Baal_Extreme.jpg"
+	},
+	{
+		"raid":"garuda",
+		"displayname":"Garuda",
+		"aliases": [
+			"garuda"
+		],
+		"imageURL":"https://gbf.wiki/images/6/6c/BattleRaid_Garuda_Extreme.jpg"
+	},
+	{
+		"raid":"odin",
+		"displayname":"Odin",
+		"aliases": [
+			"odin"
+		],
+		"imageURL":"https://gbf.wiki/images/e/ef/BattleRaid_Odin_Extreme.jpg"
+	},
+	{
+		"raid":"lich",
+		"displayname":"Lich",
+		"aliases": [
+			"lich"
+		],
+		"imageURL":"https://gbf.wiki/images/f/f5/BattleRaid_Lich_Extreme.jpg"
+	},
+	{
+		"raid":"protobahamut",
+		"displayname":"Proto Bahamut",
+		"aliases": [
+			"protobaha",
+			"pbaha"
+		],
+		"imageURL":"https://gbf.wiki/images/9/97/Wings_of_Terror_Nightmare.jpg"
+	},
+	{
+		"raid":"grandorder",
+		"displayname":"Grand Order",
+		"aliases": [
+			"go",
+			"grand order",
+			"zooey",
+			"zoi"
+		],
+		"imageURL":"https://gbf.wiki/images/2/24/BattleRaid_The_Peacemaker%27s_Wings_Nightmare.jpg"
+	},
+	{
+		"raid":"huanglong",
+		"displayname":"Huanglong",
+		"aliases": [
+			"huanglong",
+			"yellow horse",
+			"gold horse"
+		],
+		"imageURL":"https://gbf.wiki/images/2/24/Huanglong_Nightmare.jpg"
+	},
+	{
+		"raid":"qilin",
+		"displayname":"Qilin",
+		"aliases": [
+			"qilin",
+			"black horse"
+		],
+		"imageURL":"https://gbf.wiki/images/5/5c/Qilin_Nightmare.jpg"
+	},
+	{
+		"raid":"michael",
+		"displayname":"Michael",
+		"aliases": [
+			"michael"
+		],
+		"imageURL":"https://gbf.wiki/images/1/11/BattleRaid_Michael_Raid.jpg"
+	},
+	{
+		"raid":"gabriel",
+		"displayname":"Gabriel",
+		"aliases": [
+			"gabriel"
+		],
+		"imageURL":"https://gbf.wiki/images/7/78/BattleRaid_Gabriel_Raid.jpg"
+	},
+	{
+		"raid":"uriel",
+		"displayname":"Uriel",
+		"aliases": [
+			"uriel"
+		],
+		"imageURL":"https://gbf.wiki/images/9/91/BattleRaid_Uriel_Raid.jpg"
+	},
+	{
+		"raid":"raphael",
+		"displayname":"Raphael",
+		"aliases": [
+			"raphael"
+		],
+		"imageURL":"https://gbf.wiki/images/6/6b/BattleRaid_Raphael_Raid.jpg"
+	},
+	{
+		"raid":"ultimatebahamut",
+		"displayname":"Ultimate Bahamut",
+		"aliases": [
+			"ubaha",
+			"baha",
+			"ultimate bahamut"
+		],
+		"imageURL":"https://gbf.wiki/images/1/1a/BattleRaid_Ultimate_Bahamut_Normal.png"
+	},
+	{
+		"raid":"grandorderhl",
+		"displayname":"Grand Order Impossible",
+		"aliases": [
+			"gohl",
+			"go hl",
+			"go impossible",
+			"go imp",
+			"grand order impossible",
+			"grand order imp",
+			"grand order hl"
+		],
+		"imageURL":"https://gbf.wiki/images/9/97/BattleRaid_The_Peacemaker%27s_Wings_Impossible.png"
+	},
+	{
+		"raid":"lindwurm",
+		"displayname":"Lindwurm",
+		"aliases": [
+			"lindwurm",
+			"lindwyrm",
+			"wurm",
+			"lind",
+			"worm",
+			"lindworm",
+			"lw"
+		],
+		"imageURL":"https://gbf.wiki/images/c/c7/BattleRaid_Lindwurm_Impossible.png"
+	}
+  ]
+}
